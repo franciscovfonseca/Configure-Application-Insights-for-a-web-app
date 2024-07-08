@@ -57,7 +57,7 @@ In this task, you will use the Azure portal to create a web app, and then you wi
 
 ✅ In the Azure portal, in the upper-left corner, select the **Show portal** menu icon.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/54daf155-1b1e-473f-86dc-c4d9779abb5f" height="10%" width="10%" alt="9"/><br />
 <br>
 
 <br>
@@ -84,7 +84,7 @@ In this task, you will use the Azure portal to create a web app, and then you wi
 
 ✅ On the Select App Service Pricing Plan blade, locate and select **Standard S1**, and then select **Select**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/f6d489a5-dc14-4506-9f49-481c69af238e" height="30%" width="30%" alt="9"/><br />
 <br>
 
 <br>
@@ -120,7 +120,7 @@ In this task, you will use the Azure portal to create a web app, and then you wi
 
 ✅ When you are presented with a **Your deployment is complete** message, select **Go to resource** to display the web42241754 page.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/fc81a044-6f67-468b-adad-39b1b1861f83" height="50%" width="50%" alt="9"/><br />
 <br>
 
 <br>
@@ -129,7 +129,7 @@ In this task, you will use the Azure portal to create a web app, and then you wi
 
 - You should see the default home page of the web app.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/055454fc-25a2-44b2-bbbf-7310d557fad8" height="80%" width="80%" alt="9"/><br />
 <br>
 
 <br>
@@ -152,7 +152,7 @@ In this task, you will deploy ASP.NET code to your web app, and then you will te
 
 ✅ On the Deployment Center page, on the Settings page, select **SCM basic authentication is disabled for your app. Click here to go to your configuration settings to enable**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/b0a09d4d-1379-4447-af80-406a65284860" height="60%" width="60%" alt="9"/><br />
 <br>
 
 <br>
@@ -167,14 +167,14 @@ In this task, you will deploy ASP.NET code to your web app, and then you will te
 
 ✅ On the Deployment Center page, on the Settings page, in Source, select **External Git**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/660be1c6-f357-4c17-8d2c-3b2eb708ff7a" height="60%" width="60%" alt="9"/><br />
 <br>
 
 <br>
 
 ✅ In External Git, in Repository, enter ***https://github.com/LODSContent/LODSOC_app-service-web-dotnet-get-started***, in Branch, enter ***main***, and then in Repository Type, ensure that Public is selected.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/e6552ab0-adc1-47d1-9f64-80707db3f45a" height="60%" width="60%" alt="9"/><br />
 <br>
 
 <br>
@@ -188,7 +188,7 @@ In this task, you will deploy ASP.NET code to your web app, and then you will te
 
 ✅ On the web42241754 resource menu, select **Overview**, and then select the **URL** link to display the updated version of the web app.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/887e97f4-07db-4de1-9b1d-3579f5e8cc47" height="80%" width="80%" alt="9"/><br />
 
 - If you do not see the updated page, refresh the browser.
 <br>
