@@ -37,95 +37,95 @@ In this task, you will use the Azure portal to create a web app, and then you wi
 
 <br>
 
-1. If necessary, sign in to Windows 10 - RDP Jumpbox as LabUser using Passw0rd! as the password.
+✅ If necessary, sign in to Windows 10 - RDP Jumpbox as LabUser using Passw0rd! as the password.
 
 - 💡 Select the Type Text icon to type the associated text into the virtual machine at the current cursor location.
 <br>
 
 <br>
 
-2. Open Microsoft Edge, and then sign in to http://portal.azure.com as admin-42241754@cloudslice.onmicrosoft.com using cDeC3e!0D@ as the password.
+✅ Open Microsoft Edge, and then sign in to http://portal.azure.com as admin-42241754@cloudslice.onmicrosoft.com using cDeC3e!0D@ as the password.
 
 - If you receive an error, select Try again.
 <br>
 
 <br>
 
-3. If prompted to take a tour of the Azure portal, select Maybe later.
+✅ If prompted to take a tour of the Azure portal, select Maybe later.
 
 <br>
 
-4. In the Azure portal, in the upper-left corner, select the Show portal menu icon.
+✅ In the Azure portal, in the upper-left corner, select the Show portal menu icon.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
 <br>
 
 <br>
 
-5. On the Azure portal menu, select Create a resource to display the Azure Marketplace.
+✅ On the Azure portal menu, select Create a resource to display the Azure Marketplace.
 
 <br>
 
-6. In the Popular Azure services list, select Web App.
+✅ In the Popular Azure services list, select Web App.
 
 <br>
 
-7. On the Create Web App blade, on the Basics page, in Resource Group, select corp-datalod42241754, and then in Name, enter web42241754.
+✅ On the Create Web App blade, on the Basics page, in Resource Group, select corp-datalod42241754, and then in Name, enter web42241754.
 
 <br>
 
-8. In Publish, ensure that Code is selected, in Runtime stack, select ASP.NET V4.8 (or the most recent version), in Operating System, ensure that Windows is selected, and then in Region, select East US.
+✅ In Publish, ensure that Code is selected, in Runtime stack, select ASP.NET V4.8 (or the most recent version), in Operating System, ensure that Windows is selected, and then in Region, select East US.
 
 <br>
 
-9. In App Service Plan, in Sku and size, select Explore pricing plans.
+✅ In App Service Plan, in Sku and size, select Explore pricing plans.
 
 <br>
 
-10. On the Select App Service Pricing Plan blade, locate and select Standard S1, and then select Select.
+✅ On the Select App Service Pricing Plan blade, locate and select Standard S1, and then select Select.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
 <br>
 
 <br>
 
-11. On the Basics page, select Next: Database, and then select Next : Deployment.
+✅ On the Basics page, select Next: Database, and then select Next : Deployment.
 
 <br>
 
-12. On the Deployment page, in Continuous deployment settings, ensure that Disable is selected, and then select Next : Networking.
+✅ On the Deployment page, in Continuous deployment settings, ensure that Disable is selected, and then select Next : Networking.
 
 - You will deploy code for the web app in an upcoming task.
 <br>
 
 <br>
 
-13. On the Networking page, in Enable network injection, ensure that Off is selected, and then select Next : Monitoring.
+✅ On the Networking page, in Enable network injection, ensure that Off is selected, and then select Next : Monitoring.
 
 <br>
 
-14. On the Monitoring page, in Enable Application Insights, ensure that No is selected.
+✅ On the Monitoring page, in Enable Application Insights, ensure that No is selected.
 
 - You will enable Application Insights in an upcoming task.
 <br>
 
 <br>
 
-15. Select Review + create, review the configuration, and then select Create to deploy the web app.
+✅ Select Review + create, review the configuration, and then select Create to deploy the web app.
 
 - The web app deployment will take approximately 1–2 minutes to complete.
 <br>
 
 <br>
 
-16. When you are presented with a Your deployment is complete message, select Go to resource to display the web42241754 page.
+✅ When you are presented with a Your deployment is complete message, select Go to resource to display the web42241754 page.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
 <br>
 
 <br>
 
-17. On the web42241754 page, select the URL link to test the deployment.
+✅ On the web42241754 page, select the URL link to test the deployment.
 
 - You should see the default home page of the web app.
 <p align="center">
@@ -134,7 +134,7 @@ In this task, you will use the Azure portal to create a web app, and then you wi
 
 <br>
 
-18. Close the browser window that contains default home page of the web app.
+✅ Close the browser window that contains default home page of the web app.
 
 <br>
 <br>
@@ -146,59 +146,56 @@ In this task, you will deploy ASP.NET code to your web app, and then you will te
 
 <br>
 
-1. On the web42241754 resource menu, in Deployment, select Deployment Center.
+✅ On the web42241754 resource menu, in Deployment, select Deployment Center.
 
 <br>
 
-2. On the Deployment Center page, on the Settings page, select SCM basic authentication is disabled for your app. Click here to go to your configuration settings to enable.
+✅ On the Deployment Center page, on the Settings page, select SCM basic authentication is disabled for your app. Click here to go to your configuration settings to enable.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
 <br>
 
 <br>
 
-3. On the Configuration blade, in Platform settings, in SCM Basic Auth Publishing Credentials, select On, and then on the command bar, select Save.
+✅ On the Configuration blade, in Platform settings, in SCM Basic Auth Publishing Credentials, select On, and then on the command bar, select Save.
 
 <br>
 
-4. On the Save changes blade, select Continue, and then close the Configuration blade.
+✅ On the Save changes blade, select Continue, and then close the Configuration blade.
 
 <br>
 
-5. On the Deployment Center page, on the Settings page, in Source, select External Git.
+✅ On the Deployment Center page, on the Settings page, in Source, select External Git.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
 <br>
 
 <br>
 
-6. In External Git, in Repository, enter https://github.com/LODSContent/LODSOC_app-service-web-dotnet-get-started, in Branch, enter main, and then in Repository Type, ensure that Public is selected.
+✅ In External Git, in Repository, enter https://github.com/LODSContent/LODSOC_app-service-web-dotnet-get-started, in Branch, enter main, and then in Repository Type, ensure that Public is selected.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
 <br>
 
 <br>
 
-7. On the command bar, select Save to initiate the deployment.
+✅ On the command bar, select Save to initiate the deployment.
 
 - It will take approximately 1–2 minutes for the new code to fully deploy.
 <br>
 
 <br>
 
-8. On the web42241754 resource menu, select Overview, and then select the URL link to display the updated version of the web app.
+✅ On the web42241754 resource menu, select Overview, and then select the URL link to display the updated version of the web app.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Configure-Virtual-Network-Connectivity-by-Using-Peering/assets/172988970/5b9a2405-7215-4592-95f3-363c871949ef" height="80%" width="80%" alt="9"/><br />
-<br>
-
-<br>
 
 - If you do not see the updated page, refresh the browser.
 <br>
 
 <br>
 
-9. Close the browser window that contains the updated ASP.NET home page.
+✅ Close the browser window that contains the updated ASP.NET home page.
 
 <br>
 <br>
