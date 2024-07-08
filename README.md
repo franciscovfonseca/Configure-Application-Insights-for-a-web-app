@@ -11,20 +11,22 @@
 <h1> Configure Application Insights for a Web App</h1>
 <br>
 
-In this exercise, you will configure Application Insights for a web app by using the Azure portal.
+In this exercise, you will **Configure Application Insights for a Web App** by using the ***Azure Portal***.
 
-1. First, you will create a web app.
+1. First, you will **Create a Web App**.
 
-2. Next, you will deploy ASP.NET code to the web app.
+2. Next, you will **Deploy ASP.NET Code** to the web app.
 
-3. Finally, you will configure and test Application Insights.
+3. Finally, you will **Configure and Test Application Insights**.
 <br>
 
-You can use the Azure App Service to host your web apps in the cloud in a fully managed environment.
+<br>
+
+You can use the **Azure App Service** to host your web apps in the cloud in a fully managed environment.
 
 You can deploy your own code by using the programming language of your choice and the tools you are familiar with.
 
-As part of your security strategy, you can monitor usage of your web app by using Application Insights.
+As part of your security strategy, you can monitor usage of your web app by using **Application Insights**.
 
 
 <br>
@@ -132,11 +134,9 @@ In this task, you will use the Azure portal to create a web app, and then you wi
 <img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/609747c5-22d9-4c42-936b-06b42155a050" height="80%" width="80%" alt="9"/><br />
 <br>
 
-<br>
-
-✅ Close the browser window that contains default home page of the web app.
 
 <br>
+
 <br>
 
 <h2>2️⃣ Deploy ASP.NET Code</h2>
@@ -193,9 +193,6 @@ In this task, you will deploy ASP.NET code to your web app, and then you will te
 - If you do not see the updated page, refresh the browser.
 <br>
 
-<br>
-
-✅ Close the browser window that contains the updated ASP.NET home page.
 
 <br>
 <br>
@@ -209,7 +206,7 @@ In this task, you will configure Application Insights.
 
 ✅ On the web42241754 resource menu, in Settings, select **Application Insights**, and then select **Turn on Application Insights**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/9141f9ba-6014-40b3-9102-325b18b3edc3" height="8%" width="8%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/dc2aa394-96f3-4cf6-953a-d87b8518c703" height="30%" width="30%" alt="9"/><br />
 <br>
 
 <br>
@@ -228,21 +225,21 @@ In this task, you will configure Application Insights.
 
 ✅ On the Application Insights page, select **View Application Insights data**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/9141f9ba-6014-40b3-9102-325b18b3edc3" height="8%" width="8%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/80f4f372-db8c-4a2d-bd72-dd9c2ae5dbaa" height="40%" width="40%" alt="9"/><br />
 <br>
 
 <br>
 
 ✅ On the web42241754 page, on the Overview page, on the command bar, select **Application Dashboard**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/9141f9ba-6014-40b3-9102-325b18b3edc3" height="8%" width="8%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/19cc7318-2c5c-4fb3-be35-251bcedb9b86" height="30%" width="30%" alt="9"/><br />
 <br>
 
 <br>
 
 ✅ On the web42241754 Dashboard, select the **Live Stream** tile to view the Live metrics page.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/9141f9ba-6014-40b3-9102-325b18b3edc3" height="8%" width="8%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/b31f3215-683a-458d-b650-78ba64723e4b" height="10%" width="10%" alt="9"/><br />
 <br>
 
 <br>
@@ -255,7 +252,7 @@ In this task, you will configure Application Insights.
 
 ✅ Verify that the application appears, and then refresh the browser five times to generate multiple requests.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/9141f9ba-6014-40b3-9102-325b18b3edc3" height="8%" width="8%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/6b2a7550-fb10-4054-9520-40dcae68e62b" height="60%" width="60%" alt="9"/><br />
 <br>
 
 <br>
@@ -266,14 +263,14 @@ In this task, you will configure Application Insights.
 
 ✅ Switch to the **Live metrics** page to view the real-time metrics.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/9141f9ba-6014-40b3-9102-325b18b3edc3" height="8%" width="8%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/8cf9bd1e-75e0-4e33-a1be-5abf8f967e38" height="80%" width="80%" alt="9"/><br />
 <br>
 
 <br>
 
 ✅ On the Live metrics page, if needed, select **<< Show document stream** to see the Sample telemetry pane on the right.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/9141f9ba-6014-40b3-9102-325b18b3edc3" height="8%" width="8%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/c77ecc11-69cf-448e-b07c-1741517f13f6" height="50%" width="50%" alt="9"/><br />
 <br>
 
 <br>
@@ -282,35 +279,34 @@ In this task, you will configure Application Insights.
 
 You can select and drag the vertical sizing control to view more detail.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/9141f9ba-6014-40b3-9102-325b18b3edc3" height="8%" width="8%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/22472428-6c10-4edc-bfc3-359b308674c5" height="50%" width="50%" alt="9"/><br />
 <br>
 
 <br>
 
 ✅ Close the **Live metrics** page to return to the web42241754 Dashboard.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/9141f9ba-6014-40b3-9102-325b18b3edc3" height="8%" width="8%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/7a75ce1c-d6ef-4ec9-8f71-f5ff09f7e941" height="50%" width="50%" alt="9"/><br />
 <br>
 
 <br>
 
 ✅ Select **UTC Time: Past 24 hours**, in Time range, select **Past 30 minutes**, and then select **Apply**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/9141f9ba-6014-40b3-9102-325b18b3edc3" height="8%" width="8%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/514624e2-bf62-4b36-a7b4-8bf1dc10daeb" height="45%" width="45%" alt="9"/><br />
 <br>
 
 <br>
 
 ✅ On the web42241754 Dashboard , select **Save**.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/9141f9ba-6014-40b3-9102-325b18b3edc3" height="8%" width="8%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/9a6844be-bc6c-424e-913c-2165e2c5b5e9" height="40%" width="40%" alt="9"/><br />
 <br>
 
-<br>
 
-It may take a few minutes for telemetry to be updated on the dashboard.
+- It may take a few minutes for telemetry to be updated on the dashboard.
 <p align="center">
-<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/9141f9ba-6014-40b3-9102-325b18b3edc3" height="8%" width="8%" alt="9"/><br />
+<img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/088e9245-00d6-4bd3-b13e-77fb4b3e7629" height="80%" width="80%" alt="9"/><br />
 <br>
 
 
