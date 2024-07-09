@@ -11,7 +11,7 @@
 <h1> Configure Application Insights for a Web App</h1>
 <br>
 
-In this exercise, you will **Configure Application Insights for a Web App** by using the ***Azure Portal***.
+In this lab, you will **Configure Application Insights for a Web App** by using the ***Azure Portal***.
 
 1. First, you will **Create a Web App**.
 
