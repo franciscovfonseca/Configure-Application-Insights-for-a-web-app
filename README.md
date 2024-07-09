@@ -35,7 +35,8 @@ As part of your security strategy, you can monitor usage of your web app by usin
 <h2>1️⃣ Create a Web App</h2>
 <br>
 
-In this task, you will use the Azure portal to create a web app, and then you will test the app by using its public URL.
+### In this task, you will use the Azure portal to Create a Web App, and then you will Test the App by using its public URL.
+<br>
 
 <br>
 
@@ -145,7 +146,8 @@ In this task, you will use the Azure portal to create a web app, and then you wi
 <h2>2️⃣ Deploy ASP.NET Code</h2>
 <br>
 
-In this task, you will deploy ASP.NET code to your web app, and then you will test the updated app by using the public URL of the web app.
+### In this task, you will Deploy ASP.NET code to your Web App, and then you will Test the Updated App by using the public URL of the Web App.
+<br>
 
 <br>
 
@@ -203,7 +205,8 @@ In this task, you will deploy ASP.NET code to your web app, and then you will te
 <h2>3️⃣ Configure Application Insights</h2>
 <br>
 
-In this task, you will configure Application Insights.
+### In this task, you will Configure Application Insights.
+<br>
 
 <br>
 
