@@ -40,14 +40,14 @@ As part of your security strategy, you can monitor usage of your web app by usin
 
 <br>
 
-◻️ If necessary, sign in to **🖥️ Windows 10 - RDP Jumpbox** as ***LabUser*** using ***Passw0rd!*** as the password.
+◻️ If necessary, sign in to **🖥️ Windows 10 - RDP Jumpbox** as ***🆃 LabUser*** using ***🆃 Passw0rd!*** as the password.
 
-- 💡 Select the ***Type Text*** icon to type the associated text into the virtual machine at the current cursor location.
+- 💡 Select the ***🆃 Type Text*** icon to type the associated text into the virtual machine at the current cursor location.
 <br>
 
 <br>
 
-◻️ Open Microsoft Edge, and then sign in to http://portal.azure.com as ***admin-42241754*** using ***cDeC3e!0D@*** as the password.
+◻️ Open Microsoft Edge, and then sign in to http://portal.azure.com as ***🆃 admin-42241754*** using ***🆃 cDeC3e!0D@*** as the password.
 
 - If you receive an error, select **Try again**.
 <br>
@@ -73,7 +73,7 @@ As part of your security strategy, you can monitor usage of your web app by usin
 
 <br>
 
-◻️ On the Create Web App blade, on the Basics page, in Resource Group, select **corp-datalod42241754**, and then in Name, enter ***web42241754***.
+◻️ On the Create Web App blade, on the Basics page, in Resource Group, select **corp-datalod42241754**, and then in Name, enter ***🆃 web42241754***.
 
 <br>
 
@@ -177,7 +177,7 @@ As part of your security strategy, you can monitor usage of your web app by usin
 
 <br>
 
-◻️ In External Git, in Repository, enter ***https://github.com/LODSContent/LODSOC_app-service-web-dotnet-get-started***, in Branch, enter ***main***, and then in Repository Type, ensure that Public is selected.
+◻️ In External Git, in Repository, enter ***🆃 https://github.com/LODSContent/LODSOC_app-service-web-dotnet-get-started***, in Branch, enter ***🆃 main***, and then in Repository Type, ensure that Public is selected.
 <p align="center">
 <img src="https://github.com/franciscovfonseca/Configure-Application-Insights-for-a-web-app/assets/172988970/8efa718d-ea02-4fbf-bb91-5582099ac346" height="50%" width="50%" alt="9"/><br />
 <br>
@@ -217,7 +217,7 @@ As part of your security strategy, you can monitor usage of your web app by usin
 
 <br>
 
-◻️ In New resource name, ensure that the value is set to ***web42241754***.
+◻️ In New resource name, ensure that the value is set to ***🆃 web42241754***.
 
 <br>
 
@@ -252,7 +252,7 @@ As part of your security strategy, you can monitor usage of your web app by usin
 
 - If the Live metrics page is not initialized, refresh or restart the browser. It may take several minutes for Live Metrics to be initialized.
 
-◻️ In a new browser window, go to the URL for the web app at ***https://web42241754.azurewebsites.net***.
+◻️ In a new browser window, go to the URL for the web app at ***🆃 https://web42241754.azurewebsites.net***.
 
 <br>
 
@@ -263,7 +263,7 @@ As part of your security strategy, you can monitor usage of your web app by usin
 
 <br>
 
-◻️ To generate a failed request, go to ***https://web42241754.azurewebsites.net/badrequest*** to access a bad URL for the web app, and then close the new browser window.
+◻️ To generate a failed request, go to ***🆃 https://web42241754.azurewebsites.net/badrequest*** to access a bad URL for the web app, and then close the new browser window.
 
 <br>
 
